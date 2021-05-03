@@ -2,6 +2,12 @@
 # Big Project - Data Science Exam
 This project is designed as applied research and experimental development of a data science implementation solution. The project activities involve systematic and creative work of finding novel, uncertain and reproduceable results by applying the modern data science technologies, experienced in class, in a business context.
 
+# Roadmap
+## Stage 1
+The solution to this stage can be found in the `stage1.txt` file
+## Stage 2
+The solution to this stage can be found in the `stage2.txt` file, the data we've collected can be found in the `data` folder and our pre processing (cleaning) and first visualizations of the data can be found in the python notebook in the `pre_processing` folder. The file is named `elt.ipynb`. 
+
 ## Focus of interest
 Predictions of cryptocurrency values.
 
