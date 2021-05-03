@@ -1,9 +1,8 @@
 1. Collect ideas and define a business or social domain, where data science can bring a value
-We've come up with an idea about exploring data from cryptocurrencies. 
-We want to find, use and predict their values and maybe do a comparisson of multiple coins.
+    We've come up with an idea about exploring data from cryptocurrencies. 
+    We want to find, use and predict their values and maybe do a comparisson of multiple coins.
 
-2. Ideas from searching the web
-comparisson of the coins by: 
+2. Ideas from searching the web comparisson of the coins by: 
     a. Increase in percent over a given time (recent time)
     b. How many coins can you buy for 1000$
     c. How much money could we have gained if we bought the coins a while ago
@@ -39,4 +38,11 @@ comparisson of the coins by:
         We've installed all these software products and integrated them with Visual Studio Code.  
     b. Create a github repository, witch will host all project components 
        during all stages of the development and implementaiton process
-       
+       - done
+    c. Create and upload a .md file as an initial release of the project, witch contains brief 
+       annotaion of your ideas, in minimum four sentences, telling:
+       - what is the focus of your interest?
+       - why is it interesting?
+       - witch outcome do you expect from your research?
+       - who may be a user of the results? 
+        Answers to these questions can be found in the root of this github repository (README.md).      
