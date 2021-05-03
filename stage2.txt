@@ -1,0 +1,21 @@
+
+1. Search internet and other media, find relevant data sources that can be used in your experiment
+    We found this article that scratches the surface of the subject: 
+    https://towardsdatascience.com/cryptocurrency-analysis-with-python-buy-and-hold-c3b0bc164ffa
+
+    We found a source of data on cryptocurrencies here: 
+    https://coinmetrics.io/community-network-data/
+    (DogeCoin, Etherium, Bitcoin downloaded in data folder)
+
+    We found a source of data for the US dollar index here: 
+    https://www.wsj.com/market-data/quotes/index/DXY/historical-prices
+    (data is in data folder)
+
+    Extra information: 
+    https://opendata.stackexchange.com/questions/6884/cryptocurrency-historical-prices
+    https://towardsdatascience.com/data-science-simplified-hypothesis-testing-56e180ef2f71
+    https://dolcikey.medium.com/hypothesis-writing-and-interpretation-for-data-science-explained-d3c6a5236cd6
+
+2. Integrate the sources in a shared repository by either ETL or ELT process
+    We've chosen to use ELT (Extract, Load, Transform). The reason for this is, 
+    that we have relatively neat data in CSV format extracted from the websites.
