@@ -6,6 +6,8 @@
     We found a source of data on cryptocurrencies here: 
     https://coinmetrics.io/community-network-data/
     (DogeCoin, Etherium, Bitcoin downloaded in data folder)
+    And new sources with high, low, open, close here (new DOGE data unavailable here)
+    https://www.cryptodatadownload.com/data/binance/
 
     We found a source of data for the US dollar index here: 
     https://www.wsj.com/market-data/quotes/index/DXY/historical-prices
