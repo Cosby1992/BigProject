@@ -4,9 +4,11 @@ This project is designed as applied research and experimental development of a d
 
 # Roadmap
 ## Stage 1
-The solution to this stage can be found in the `stage1.txt` file
+The solution to this stage can be found in the `stage1.txt` file.
 ## Stage 2
 The solution to this stage can be found in the `stage2.txt` file, the data we've collected can be found in the `data` folder and our pre processing (cleaning) and first visualizations of the data can be found in the python notebook in the `pre_processing` folder. The file is named `elt.ipynb`. 
+## Stage 3
+The solution to this stage can be found in the `stage3.txt` file. 
 
 ## Focus of interest
 Predictions of cryptocurrency values.
