@@ -11,7 +11,8 @@ The solution to this stage can be found in the `stage2.txt` file, the data we've
 The solution to this stage can be found in the `stage3.txt` file. 
 
 ## Stage 4
-The solution to this stage can be found in the `stage4.txt` file. 
+The solution to this stage can be found in the `stage4.txt` file.
+The visualization of our AR can be seen in the: `./stage4/AR_Prediction.png`  
 
 ## Focus of interest
 Predictions of cryptocurrency values.
