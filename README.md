@@ -10,6 +10,9 @@ The solution to this stage can be found in the `stage2.txt` file, the data we've
 ## Stage 3
 The solution to this stage can be found in the `stage3.txt` file. 
 
+## Stage 4
+The solution to this stage can be found in the `stage4.txt` file. 
+
 ## Focus of interest
 Predictions of cryptocurrency values.
 
