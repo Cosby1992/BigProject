@@ -1,0 +1,24 @@
+GOOD 
+DORA DIMITROVA TO YOUR SUBMISSION
+
+Good problem definition.
+Good explanation of the progress through the stages in the txt files.
+Large research of sources and data.
+Various hypotheses - need a bit more formalisation.
+Various models - tell how they compare or complement.
+
+BAD
+DORA DIMITROVA TO YOUR SUBMISSION
+
+Data from different sources can be aggregated. Separate sources lead to creating variety of 
+models, which do not communicate to each other. ETL process and store miss explanation.
+Most of models have no explanation - you can add narratives/text to tell what you are doing 
+with the code.
+You have good charts of your data, arrange them in a story telling!
+
+Dashboard: a collection of visual (images, diagrams, charts, animations, videos, webs) and verbal 
+(text explanation), which display an overview of your work and help potential users to understand 
+both the process and the outcomes.
+
+What about including some other factors, which influence the market of crypto-coins, such as Elon Musk 
+tweets, Covid-19, inflations, etc? Then you may get 3D and more dimensional data to visualise?

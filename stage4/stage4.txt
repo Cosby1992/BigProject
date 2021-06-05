@@ -1,12 +1,28 @@
-1.    Consider applying 3D visualisation and VR/AR/MR techniques. Draw your ideas on paper or digital surface and add the image to your project assets.
+1.    Consider applying 3D visualisation and VR/AR/MR techniques. Draw your 
+ideas on paper or digital surface and add the image to your project assets.
 
-The data we are using is best represented in a 2D enviroment, 3D doesn't make sence. Although an AR setup could be implemented, where the user could use the prediction algorithm to base his next decission in realtime. 
-We have visualized how it might work. A personh would sit with AR glasses and select a prediction, based on the prediction model, for a specific cryptocoin. 
-And also relevant data would be displayed such as the "risk" value and the change in value that is predicted. 
+The data we are using is best represented in a 2D enviroment, 3D doesn't 
+make sence. Although an AR setup could be implemented, where the user could 
+use the prediction algorithm to base his next decission in realtime. 
+We have visualized how it might work. A personh would sit with AR glasses 
+and select a prediction, based on the prediction model, for a specific 
+cryptocoin. 
+And also relevant data would be displayed such as the "risk" value and the 
+change in value that is predicted. 
 
-2.    Elaborate on the benefits of applying better visualisation techniques for data analytics.
+2.    Elaborate on the benefits of applying better visualisation techniques 
+for data analytics.
 
-Most humans are visual creatures and have evolved to react to visual information a better visualization, gives a human being a better chance of analyzing the data. In the same way that a houseplan is better understod with a sketch and the meassures of the house.
-Now in our dataset a 2D graph is sufficient, due to the data being 2D (time and value). But if there is a dataset with 3 values it is quite hard to visualize the relation of all 3 values when confined to a 2D space, 
-you could find that a datapoint is quite far away from a speciffic cluster of datapoints in one plane but in another plane the datapoint seems like it is in the center of the cluster. Just like the brightest star in the night sky is not necessarily the closest.
-In a 3D space it would be possible to see the datapoints relations on all 3 axis, thus allowing for a better visual perspective.
+Most humans are visual creatures and have evolved to react to visual 
+information a better visualization, gives a human being a better chance of 
+analyzing the data. In the same way that a houseplan is better understod with 
+a sketch and the meassures of the house.
+Now in our dataset a 2D graph is sufficient, due to the data being 2D (time 
+and value). But if there is a dataset with 3 values it is quite hard to 
+visualize the relation of all 3 values when confined to a 2D space, 
+you could find that a datapoint is quite far away from a speciffic cluster 
+of datapoints in one plane but in another plane the datapoint seems like it 
+is in the center of the cluster. Just like the brightest star in the night 
+sky is not necessarily the closest.
+In a 3D space it would be possible to see the datapoints relations on all 3 
+axis, thus allowing for a better visual perspective.
