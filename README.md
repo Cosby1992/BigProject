@@ -6,7 +6,7 @@ This project is designed as applied research and experimental development of a d
 ## Stage 1
 The solution to this stage can be found in the ```project/stage1.ipynb``` file.
 ## Stage 2
-The solution to this stage can be found in the ```project/stage2.ipynb``` file, the data we've collected can be found in the ```data``` folder and our pre processing (cleaning) and first visualizations of the data can be found in the python notebook in the ```analysis_and_predictions``` folder. The file is named ```elt.ipynb```. 
+The solution to this stage can be found in the ```project/stage2.ipynb``` file, the data we've collected can be found in the ```data``` folder and our pre processing (cleaning) and first visualizations of the data can be found in the python notebook in the ```analysis_and_predictions``` folder. The file is named ```elt.ipynb```. This is also included in our datastory located in ```project/datastory.ipynb```.
 ## Stage 3
 The solution to this stage can be found in the ```project/stage3.ipynb``` file. 
 
@@ -19,7 +19,7 @@ It explains i easy terms what we are doing, and more importantly, why. The datas
 our findings, both for the analysis of the historic data but also for our prediction of future cryptocurrency values. 
 The datastory is located in ```project/datastory.ipynb```.
 
-# Infographic themed dashboard
+# Dashboard
 We have created an infographic themed dashboard, showing our findings in a fun and easy to understand manner. 
 This dashboard can be found in ```project/dashboard.png``` 
 
